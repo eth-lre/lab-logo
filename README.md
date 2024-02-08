@@ -2,14 +2,14 @@
 
 Please use one of the provided logos, preferrably in the vector format (SVG):
 
-<img src="light_base.svg" height="120px">
-<img src="dark_base.svg" height="120px">
+<img src="with_background/light_base.svg" height="120px">
+<img src="with_background/dark_base.svg" height="120px">
 
-<img src="light_horizontal.svg" height="120px">
-<img src="dark_horizontal.svg" height="120px">
+<img src="with_background/light_horizontal.svg" height="120px">
+<img src="with_background/dark_horizontal.svg" height="120px">
 
-<img src="light_vertical.svg" height="200px">
-<img src="dark_vertical.svg" height="200px">
+<img src="with_background/light_vertical.svg" height="200px">
+<img src="with_background/dark_vertical.svg" height="200px">
 
 ## Miscellaneous
 
